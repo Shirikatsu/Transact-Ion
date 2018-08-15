@@ -1,0 +1,26 @@
+{
+  "name": "transact-ion",
+  "version": "1.0.0",
+  "description": "Ethereum-based cross-chain atomic swaps over Ion protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shirikatsu/Transact-Ion.git"
+  },
+  "keywords": [
+    "ion",
+    "ethereum"
+  ],
+  "author": "Christopher Chung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shirikatsu/Transact-Ion/issues"
+  },
+  "homepage": "https://github.com/Shirikatsu/Transact-Ion#readme",
+  "dependencies": {
+    "truffle": "^4.1.14"
+  }
+}
